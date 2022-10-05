@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarkAvilin.
 - 👀 I’m interested in Programming and several type of sport.
-- 🌱 I’m currently Python developer and learning AI.
+- 🌱 I’m currently Python developer.
 - 💞️ I'm looking to collaborate on App Development Corporation
-- 📫 How to reach me avilin1@yahoo.com, https://markavilin1.github.io/portfolio/
+- 📫 How to reach me avilinmark1@gmail.com, https://markavilin1.github.io/portfolio/
 
 <!---
 MarkAvilin1/Mark Avilin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
